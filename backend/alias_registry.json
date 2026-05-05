@@ -1,0 +1,83 @@
+{
+  "supplier_gstin": [
+    "gstin of supplier", "supplier gstin", "gstin", "vendor gstin",
+    "party gstin", "supplier gst number", "gstin no", "supplier gst"
+  ],
+  "supplier_name": [
+    "trade/legal name", "supplier name", "vendor name", "party name",
+    "legal name", "trade name", "supplier", "vendor", "party"
+  ],
+  "invoice_number": [
+    "invoice number", "invoice no", "bill number", "bill no",
+    "voucher number", "voucher no", "inv no", "invoice details__invoice number",
+    "invoice no.", "bill no.", "ref no"
+  ],
+  "invoice_type": [
+    "invoice type", "document type", "type", "invoice details__invoice type",
+    "nature of document", "voucher type"
+  ],
+  "invoice_date": [
+    "invoice date", "bill date", "voucher date", "date", "document date",
+    "invoice details__invoice date", "inv date", "bill dt"
+  ],
+  "invoice_value": [
+    "invoice value", "bill amount", "total amount", "invoice value(₹)",
+    "invoice details__invoice value(₹)", "total invoice value", "gross amount"
+  ],
+  "taxable_value": [
+    "taxable value", "taxable amount", "assessable value", "taxable value (₹)",
+    "basic amount", "net amount", "taxable turnover"
+  ],
+  "igst": [
+    "igst", "integrated tax", "integrated tax(₹)", "igst amount",
+    "tax amount__integrated tax(₹)", "igst (₹)"
+  ],
+  "cgst": [
+    "cgst", "central tax", "central tax(₹)", "cgst amount",
+    "tax amount__central tax(₹)", "cgst (₹)"
+  ],
+  "sgst": [
+    "sgst", "state/ut tax", "state tax", "state/ut tax(₹)", "sgst amount",
+    "tax amount__state/ut tax(₹)", "sgst (₹)", "utgst"
+  ],
+  "cess": [
+    "cess", "cess(₹)", "cess amount", "tax amount__cess(₹)", "cess (₹)"
+  ],
+  "place_of_supply": [
+    "place of supply", "pos", "state of supply", "destination state",
+    "place of supply (state)", "supply state"
+  ],
+  "itc_availability": [
+    "itc availability", "itc available", "itc", "input tax credit availability",
+    "credit availability", "itc eligibility"
+  ],
+  "itc_reason": [
+    "reason", "itc reason", "reason for ineligibility", "reason for unavailability",
+    "itc ineligibility reason"
+  ],
+  "gstr1_period": [
+    "gstr-1/1a/iff/gstr-5 period", "gstr1 period", "filing period",
+    "return period", "gstr-1 period", "gstr 1 period"
+  ],
+  "gstr1_filing_date": [
+    "gstr-1/1a/iff/gstr-5 filing date", "gstr1 filing date", "filing date",
+    "gstr-1 filing date", "gstr 1 filing date", "return filing date"
+  ],
+  "reverse_charge": [
+    "supply attract reverse charge", "reverse charge", "rcm",
+    "reverse charge applicable", "rc applicable"
+  ],
+  "applicable_tax_rate": [
+    "applicable % of tax rate", "tax rate %", "tax rate",
+    "applicable tax rate", "rate of tax", "gst rate"
+  ],
+  "source": [
+    "source", "invoice source", "document source", "e-invoice source"
+  ],
+  "irn": [
+    "irn", "invoice reference number", "e-invoice number", "irn number"
+  ],
+  "irn_date": [
+    "irn date", "e-invoice date", "irn generation date"
+  ]
+}
